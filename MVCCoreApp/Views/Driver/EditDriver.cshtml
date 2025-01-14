@@ -1,0 +1,43 @@
+﻿@model MVCCoreApp.Models.Driver
+
+@{
+    ViewData["Title"] = "Edit Driver";
+    Layout = "~/Views/Shared/JourneyLayout.cshtml";
+}
+
+<h1>Edit Driver Details</h1>
+
+<form asp-action="EditDriver" method="post">
+    <input type="hidden" asp-for="DriverId" />
+    <table class="table table-hover">
+        <tr>
+            <th>
+                <label asp-for="DriverName"></label>
+            </th>
+            <td>
+                <input asp-for="DriverName" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="MobileNo"></label>
+            </th>
+            <td>
+                <input asp-for="MobileNo" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="Age"></label>
+            </th>
+            <td>
+                <input asp-for="Age" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit" class="btn btn-primary">Update</button>
+            </td>
+        </tr>
+    </table>
+</form>

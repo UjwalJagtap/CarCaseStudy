@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\controllers\\schedulecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\controllers\\schedulecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\schedule\\addschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\schedule\\addschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\schedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\schedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\models\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\models\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\models\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\models\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\driver\\adddriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\driver\\adddriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\driver\\editdriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\driver\\editdriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\driver\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\driver\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\controllers\\journeycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\controllers\\journeycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\car\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\car\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183815_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114183815_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\car\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\car\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114182201_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCCoreApp\\Migrations\\20250114182201_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\shared\\journeylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\shared\\journeylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\shared\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\shared\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\shared\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\shared\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\journey\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\journey\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\shared\\header1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\shared\\header1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|c:\\users\\jagta\\onedrive\\desktop\\carcasestudy-master\\carcasestudy-master\\mvccoreapp\\views\\shared\\footer1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B2A420-BF78-451B-AFA0-386C3ABBC6C8}|MVCCoreApp\\MVCCoreApp.csproj|solutionrelative:mvccoreapp\\views\\shared\\footer1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSchedule.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Schedule\\AddSchedule.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Schedule\\AddSchedule.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Schedule\\AddSchedule.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Schedule\\AddSchedule.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:22:45.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Schedules.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Schedules.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Models\\Schedules.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Schedules.cs",
+              "RelativeToolTip": "MVCCoreApp\\Models\\Schedules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:22:05.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleController1.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\ScheduleController1.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Controllers\\ScheduleController1.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\ScheduleController1.cs*",
+              "RelativeToolTip": "MVCCoreApp\\Controllers\\ScheduleController1.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv3kAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:34:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Schedule\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Schedule\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Schedule\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Schedule\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:05:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250114200323_AddDriverDetailsTables.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114200323_AddDriverDetailsTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:03:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250114200904_AddDriverDetailsTables.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114200904_AddDriverDetailsTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:09:04.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Models\\JourneyDbContext.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\JourneyDbContext.cs",
+              "RelativeToolTip": "MVCCoreApp\\Models\\JourneyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:26:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Login.cs",
+              "RelativeToolTip": "MVCCoreApp\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:13:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250114194712_AddDriverDetailsTables.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114194712_AddDriverDetailsTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:47:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\EditDriver.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Driver\\EditDriver.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\EditDriver.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Driver\\EditDriver.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:13:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\AddDriver.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Driver\\AddDriver.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\AddDriver.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Driver\\AddDriver.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:12:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "MVCCoreApp\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAjwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:33:31.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Driver.cs",
+              "RelativeToolTip": "MVCCoreApp\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:21:22.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250114194019_AddDriverDetailsTables.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114194019_AddDriverDetailsTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:40:19.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Driver\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Driver\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Driver\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T04:38:36.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250114193451_AddDriverDetailsTable.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114193451_AddDriverDetailsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:34:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\CarController.cs",
+              "RelativeToolTip": "MVCCoreApp\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:46:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Repositories\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\DriverRepository.cs",
+              "RelativeToolTip": "MVCCoreApp\\Repositories\\DriverRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:12:10.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T12:52:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JourneyController1.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\JourneyController1.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Controllers\\JourneyController1.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Controllers\\JourneyController1.cs",
+              "RelativeToolTip": "MVCCoreApp\\Controllers\\JourneyController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:11:14.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250114192617_AddDriversTable.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114192617_AddDriversTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:26:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250114183815_car.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183815_car.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114183815_car.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183815_car.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114183815_car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:38:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\EditCar.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Car\\EditCar.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\EditCar.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Car\\EditCar.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T18:45:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250114183137_AddDriverAndLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114183137_AddDriverAndLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:31:37.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Models\\Car.cs",
+              "RelativeToolTip": "MVCCoreApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:18:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\AddCar.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Car\\AddCar.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Car\\AddCar.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Car\\AddCar.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T05:00:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Program.cs",
+              "RelativeToolTip": "MVCCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:18:47.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "MVCCoreApp\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:21:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCoreApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\appsettings.json",
+              "RelativeToolTip": "MVCCoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T10:22:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250114182201_initial.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114182201_initial.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Migrations\\20250114182201_initial.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Migrations\\20250114182201_initial.cs",
+              "RelativeToolTip": "MVCCoreApp\\Migrations\\20250114182201_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:22:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\ErrorPage.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Shared\\ErrorPage.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\ErrorPage.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Shared\\ErrorPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T12:48:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JourneyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\JourneyLayout.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Shared\\JourneyLayout.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\JourneyLayout.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Shared\\JourneyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T11:51:59.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MVCCoreApp\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:17:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Success.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Shared\\Success.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Success.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Shared\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T12:47:48.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Journey\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Journey\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Journey\\Welcome.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Journey\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T12:14:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T12:28:23.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Header1.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Header1.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Shared\\Header1.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Header1.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Shared\\Header1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T11:50:23.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Footer1.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Footer1.cshtml",
+              "RelativeDocumentMoniker": "MVCCoreApp\\Views\\Shared\\Footer1.cshtml",
+              "ToolTip": "C:\\Users\\jagta\\OneDrive\\Desktop\\CarCaseStudy-master\\CarCaseStudy-master\\MVCCoreApp\\Views\\Shared\\Footer1.cshtml",
+              "RelativeToolTip": "MVCCoreApp\\Views\\Shared\\Footer1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T11:48:48.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

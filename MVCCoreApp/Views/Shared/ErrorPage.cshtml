@@ -1,0 +1,14 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ErrorPage";
+    Layout = "~/Views/Shared/JourneyLayout.cshtml";
+}
+
+<h1>Error</h1>
+<h3>
+    @ViewBag.ErrorMessage
+    <a href="/Car/Index" class="btn btn-secondary">Go Back</a>
+</h3>

@@ -1,0 +1,71 @@
+﻿@model MVCCoreApp.Models.Car
+@{
+    ViewData["Title"] = "Add Car";
+
+    Layout = "~/Views/Shared/JourneyLayout.cshtml";
+}
+
+<h2>Add Car Details</h2>
+
+@if (ViewBag.Message != null)
+
+{
+    <div class="alert alert-success">@ViewBag.Message</div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+<form asp-action="AddCar" method="post">
+    <table class="table table-hover">
+        <tr>
+            <th>
+                <label asp-for="CarId"></label>
+            </th>
+            <td>
+                <input asp-for="CarId" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="CarModel"></label>
+            </th>
+            <td>
+                <input asp-for="CarModel" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="Color"></label>
+            </th>
+            <td>
+                <input asp-for="Color" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="TotalSeats"></label>
+            </th>
+            <td>
+                <input asp-for="TotalSeats" type="number" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="HasAC"></label>
+            </th>
+            <td>
+                <input asp-for="HasAC" type="checkbox" />
+            </td>
+        </tr>
+        <tr>
+            <th></th>
+            <td>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </td>
+        </tr>
+    </table>
+</form>

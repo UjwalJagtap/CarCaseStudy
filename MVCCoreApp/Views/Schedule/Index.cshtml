@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MVCCoreApp.Models.Schedules>
+
+@{
+    ViewData["Title"] = "Schedule List";
+    Layout = "~/Views/Shared/JourneyLayout.cshtml";
+}
+
+<h1>Journey Schedules</h1>
+<a asp-action="AddSchedule" class="btn btn-primary">Add New Schedule</a>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Journey Date</th>
+            <th>Car</th>
+            <th>Driver</th>
+            <th>Start Location</th>
+            <th>Destination</th>
+            <th>Total KM</th>
+            <th>Rate Per KM</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var schedule in Model)
+        {
+            <tr>
+                <td>@schedule.JourneyDate.ToString("dd-MM-yyyy")</td>
+                <td>@schedule.Car.CarModel (@schedule.Car.CarId)</td>
+                <td>@schedule.Driver.DriverName</td>
+                <td>@schedule.StartLocation</td>
+                <td>@schedule.Destination</td>
+                <td>@schedule.TotalKmDriven</td>
+                <td>@schedule.RatePerKm</td>
+                <td>
+                    <a asp-action="EditSchedule" asp-route-id="@schedule.ScheduleId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@schedule.ScheduleId" class="btn btn-info btn-sm">Details</a>
+                    <form asp-action="DeleteSchedule" method="post" style="display:inline">
+                        <input type="hidden" name="id" value="@schedule.ScheduleId" />
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this schedule?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

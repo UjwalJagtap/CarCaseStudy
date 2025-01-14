@@ -1,0 +1,78 @@
+﻿@model MVCCoreApp.Models.Schedules
+
+@{
+    ViewData["Title"] = "Add Schedule";
+    Layout = "~/Views/Shared/JourneyLayout.cshtml";
+}
+
+<h1>Add Schedule</h1>
+
+<form asp-action="AddSchedule" method="post">
+    <table class="table table-hover">
+        <tr>
+            <th>
+                <label asp-for="JourneyDate">Journey Date</label>
+            </th>
+            <td>
+                <input asp-for="JourneyDate" class="form-control" type="date" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="CarId">Select Car</label>
+            </th>
+            <td>
+                <select asp-for="CarId" class="form-control" asp-items="ViewBag.Cars">
+                    <option value="">-- Select a Car --</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="DriverId">Select Driver</label>
+            </th>
+            <td>
+                <select asp-for="DriverId" class="form-control" asp-items="ViewBag.Drivers">
+                    <option value="">-- Select a Driver --</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="StartLocation">Start Location</label>
+            </th>
+            <td>
+                <input asp-for="StartLocation" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="Destination">Destination</label>
+            </th>
+            <td>
+                <input asp-for="Destination" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="TotalKmDriven">Total KM Driven</label>
+            </th>
+            <td>
+                <input asp-for="TotalKmDriven" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="RatePerKm">Rate per KM</label>
+            </th>
+            <td>
+                <input asp-for="RatePerKm" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit" class="btn btn-primary">Add Schedule</button>
+            </td>
+        </tr>
+    </table>
+</form>
